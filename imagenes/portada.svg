@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240">
+  <rect width="800" height="240" rx="6" fill="#E3DCCB"/>
+  <rect y="196" width="800" height="44" fill="#5E7B63"/>
+  <!-- edificio escolar -->
+  <rect x="250" y="95" width="300" height="101" fill="#2F3A45"/>
+  <polygon points="235,95 400,35 565,95" fill="#2F3A45"/>
+  <rect x="380" y="140" width="40" height="56" fill="#E3DCCB"/>
+  <g fill="#E3DCCB">
+    <rect x="275" y="115" width="32" height="32"/><rect x="325" y="115" width="32" height="32"/>
+    <rect x="443" y="115" width="32" height="32"/><rect x="493" y="115" width="32" height="32"/>
+  </g>
+  <circle cx="400" cy="85" r="14" fill="#B08D57"/>
+  <rect x="399" y="22" width="3" height="20" fill="#2F3A45"/>
+  <polygon points="402,22 426,29 402,36" fill="#B08D57"/>
+  <!-- libros a la izquierda -->
+  <g>
+    <rect x="80" y="150" width="110" height="18" fill="#B08D57"/>
+    <rect x="88" y="132" width="100" height="18" fill="#5E7B63"/>
+    <rect x="76" y="114" width="108" height="18" fill="#2F3A45"/>
+  </g>
+  <!-- árbol a la derecha -->
+  <rect x="650" y="140" width="10" height="56" fill="#2F3A45"/>
+  <circle cx="655" cy="120" r="34" fill="#5E7B63"/>
+  <circle cx="635" cy="140" r="22" fill="#5E7B63"/>
+  <circle cx="676" cy="140" r="22" fill="#5E7B63"/>
+</svg>

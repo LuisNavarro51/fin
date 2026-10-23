@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260">
+  <rect width="400" height="260" rx="6" fill="#E3DCCB"/>
+  <!-- globo 1 -->
+  <path d="M60 50 H210 a16 16 0 0 1 16 16 V130 a16 16 0 0 1 -16 16 H120 L88 176 V146 H60 a16 16 0 0 1 -16 -16 V66 a16 16 0 0 1 16 -16 Z" fill="#2F3A45"/>
+  <g stroke="#EFEADF" stroke-width="6" stroke-linecap="round">
+    <line x1="72" y1="80" x2="190" y2="80"/><line x1="72" y1="104" x2="160" y2="104"/>
+  </g>
+  <!-- globo 2 -->
+  <path d="M190 120 H340 a16 16 0 0 1 16 16 V200 a16 16 0 0 1 -16 16 H312 V246 L280 216 H190 a16 16 0 0 1 -16 -16 V136 a16 16 0 0 1 16 -16 Z" fill="#5E7B63"/>
+  <path d="M232 168 L254 190 L296 144" fill="none" stroke="#EFEADF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

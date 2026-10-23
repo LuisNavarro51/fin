@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260">
+  <rect width="400" height="260" rx="6" fill="#5E7B63"/>
+  <!-- documento -->
+  <rect x="110" y="30" width="180" height="200" rx="6" fill="#EFEADF"/>
+  <g stroke="#2F3A45" stroke-width="6" stroke-linecap="round">
+    <line x1="135" y1="65" x2="265" y2="65"/><line x1="135" y1="90" x2="265" y2="90"/>
+    <line x1="135" y1="115" x2="265" y2="115"/><line x1="135" y1="140" x2="215" y2="140"/>
+  </g>
+  <!-- sello -->
+  <circle cx="250" cy="192" r="26" fill="#B08D57"/>
+  <circle cx="250" cy="192" r="17" fill="none" stroke="#EFEADF" stroke-width="3"/>
+  <polygon points="236,212 232,244 250,234 268,244 264,212" fill="#B08D57"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260">
+  <rect width="400" height="260" rx="6" fill="#EFEADF"/>
+  <!-- hoja -->
+  <rect x="90" y="25" width="170" height="210" rx="6" fill="#FFFFFF" stroke="#2F3A45" stroke-width="5"/>
+  <g stroke="#B7B0A0" stroke-width="6" stroke-linecap="round">
+    <line x1="115" y1="60" x2="235" y2="60"/><line x1="115" y1="85" x2="235" y2="85"/>
+    <line x1="115" y1="110" x2="235" y2="110"/><line x1="115" y1="135" x2="200" y2="135"/>
+  </g>
+  <!-- lupa -->
+  <circle cx="265" cy="150" r="46" fill="#5E7B63" fill-opacity="0.18" stroke="#2F3A45" stroke-width="10"/>
+  <line x1="298" y1="184" x2="345" y2="231" stroke="#2F3A45" stroke-width="14" stroke-linecap="round"/>
+  <path d="M245 150 L260 165 L288 133" fill="none" stroke="#5E7B63" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
